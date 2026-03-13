@@ -1,0 +1,15 @@
+name: Update Productive Box
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  productive-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: a3c1e299b0d5b8a8c99e7dd23131bfbb

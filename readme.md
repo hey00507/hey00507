@@ -4,8 +4,6 @@ Backend Developer who loves building things with code.
 
 Currently exploring **Vibe Coding** — turning ideas into products fast with AI-assisted development.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhey00507&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ---
 
 ## 🛠 Tech Stack
@@ -34,13 +32,6 @@ Currently exploring **Vibe Coding** — turning ideas into products fast with AI
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey00507&show_icons=true&theme=dark)](https://github.com/hey00507)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hey00507&layout=compact&theme=dark)
-
----
-
-## ⏰ Commit Time Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hey00507&theme=github_dark&utcOffset=9)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hey00507&theme=github_dark)
 
 ---
 
